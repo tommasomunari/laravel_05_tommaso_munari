@@ -1,0 +1,38 @@
+.header-principale{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/736x/2a/56/18/2a561869fe24447d8012a9b7b9910853.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 32px;
+}
+
+.header-homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.form-custom{
+    padding: 50px;
+    background-color: pink;
+    border: 10px dashed white;
+}
+
+.navbar-custom{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+.div-custom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid yellow;
+    color: pink;
+    font-size: 70px;
+}
